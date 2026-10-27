@@ -6,7 +6,12 @@
  "category": "私撰集",
  "kind": "kashu",
  "author": "藤原清輔",
- "description": null,
+ "description": {
+  "kind": "私撰集（歌学書）",
+  "era": "平安時代後期",
+  "author": "藤原清輔 撰",
+  "desc": "歌の題の字ごとに例歌を集めた、作歌のための類題集。"
+ },
  "editions": [
   {
    "pid": "nao-730866",
